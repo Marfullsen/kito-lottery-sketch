@@ -21,7 +21,12 @@
 ¿Cuántas veces has creido que estabas muy cerca de ganar la lotería? ¡Pues jamás estuviste ni a un pelo de ganar! Con este boceto de un simulador de un billete de lotería podrás jugar una y otra vez tus números tan preciados.
 
 ## ¿Qué tan difícil es ganar la lotería real?
-En el caso de jugar _un Loto_, la probabilidad de ganar el pozo es de **1 entre 4.496.388**. Las reglas dicen que para ganar debes comprar un billete/boleto del _Loto_ y acertar los 6 números de los 41 posibles.
+
+En el caso de jugar _un Loto_, la probabilidad de ganar el pozo es de **1 entre 4.496.388**, **¡en porcentaje es un 0.00002224007%!**. Las reglas dicen que para ganar debes comprar un billete/boleto del _Loto_ y acertar los 6 números de los 41 posibles.
+
+## Proyectos a futuro
+
+Ojalá poder continuar este boceto y convertirlo de un simple archivo en Python3 a un proyecto complejo integrando tecnologías de vanguardia como Vue3, React o Angular para la fachada y Node para el BackEnd.
 
 ## Referencias
 - [Posibilidad de ganar la lotería](https://www.thelotter.cl/probabilidad-ganar-loto)
